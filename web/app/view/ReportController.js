@@ -216,6 +216,7 @@ Ext.define('Traccar.view.ReportController', {
                 this.selectPositionRelated(report);
             }
         }
+        //HELLO
     },
 
     selectDevice: function (device) {
